@@ -1,0 +1,14 @@
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\bin\Debug\net6.0\Order.Core.exe
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\bin\Debug\net6.0\Order.Core.deps.json
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\bin\Debug\net6.0\Order.Core.runtimeconfig.json
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\bin\Debug\net6.0\Order.Core.dll
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\bin\Debug\net6.0\Order.Core.pdb
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\obj\Debug\net6.0\Order.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\obj\Debug\net6.0\Order.Core.AssemblyInfoInputs.cache
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\obj\Debug\net6.0\Order.Core.AssemblyInfo.cs
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\obj\Debug\net6.0\Order.Core.csproj.CoreCompileInputs.cache
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\obj\Debug\net6.0\Order.Core.dll
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\obj\Debug\net6.0\refint\Order.Core.dll
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\obj\Debug\net6.0\Order.Core.pdb
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\obj\Debug\net6.0\Order.Core.genruntimeconfig.cache
+D:\Projects dot net\Order Mangement System\OrderMangementSystem\Order.Core\obj\Debug\net6.0\ref\Order.Core.dll
